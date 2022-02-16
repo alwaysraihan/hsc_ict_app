@@ -12,7 +12,7 @@ This is an Android studio project. I used Java in this project.
 - [Nurul Islam](https://github.com/alwaysraihan)
 
 # Language
-. [JAVA]
+- Java
 ## Related
 
 Here are some related projects
