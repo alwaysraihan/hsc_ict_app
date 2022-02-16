@@ -3,7 +3,7 @@
 
 This is an Android studio project. I used Java in this project.
 
-# Demo App
+## Demo App
 
 
 - [Downlod](https://drive.google.com/file/d/1DV1Jig5LzPTr_r2pJfwL89XvtlWjV0K8/view?usp=sharingn)
@@ -11,7 +11,8 @@ This is an Android studio project. I used Java in this project.
 
 - [Nurul Islam](https://github.com/alwaysraihan)
 
-
+# Language
+. [JAVA]
 ## Related
 
 Here are some related projects
